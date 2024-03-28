@@ -1,3 +1,1 @@
-# ce-clone
-cd
-git@github.com:Jhonatanbb/ce-clone.githttps://www.sexlog.com/vadiaquerleite
+https://github.com/sherlock-project/sherlock.py-https://www.sexlog.com/vadiaquerleite
